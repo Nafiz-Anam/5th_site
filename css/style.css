@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* nav section */
+
+header nav ul li {
+    padding-left: 40px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#footer nav ul li {
+    padding-left: 40px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#banner {
+    width: 100%;
+    height: 800px;
+    overflow: hidden;
+    position: relative;
+}
+
+
+/* banner */
+
+.my-banner {
+    background-image: url('../img/Hills.png');
+    background-size: cover;
+    height: 900px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+
+/* best treks */
+
+
+/* sm banner */
+
+#sm-img {
+    background-image: url('../img/sm-banner.png');
+    width: 100%;
+    height: 250px;
+}
+
+#stay-touch {
+    width: 100%;
+    height: 786px;
+    padding
+}
+
+.opacity {
+    opacity: .5;
+}
+
+.social ul li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.social ul li a {
+    font-size: 20px;
+    color: black;
+}
+
+.social ul li a:hover {
+    color: chocolate;
+}
+
+.num {
+    background-color: black;
+    color: white;
+    display: inline-block;
+}
+
+.cal {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.text1 {
+    color: white;
+}
